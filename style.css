@@ -1,0 +1,25 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color: white;	    
+ }
+
+#left-column{
+   width: 60%;
+   float: left;
+   background-image: radial-gradient( circle 976px at 51.2% 51%,  rgba(11,27,103,1) 0%, rgba(16,66,157,1) 0%, rgba(11,27,103,1) 17.3%, rgba(11,27,103,1) 58.8%, rgba(11,27,103,1) 71.4%, rgba(16,66,157,1) 100.2%, rgba(187,187,187,1) 100.2% );    
+}
+
+#right-column img{
+    width:230px;
+    margin-left:140px;
+    margin-top:100px;
+}
+
+img#logo{
+   position:fixed;
+   width:150px;
+   bottom:20px;
+   right:10px
+}
